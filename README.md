@@ -16,6 +16,7 @@ My journey in I.T. has led me to develop a passion for cybersecurity, and I am n
 ## Projects
 [Python Packet Sniffer ](https://github.com/PatIvery123/Python-Packet-Sniffer-/tree/main)
 
+[Python Password Checker ](https://github.com/PatIvery123/Python-Password-Checker-/blob/main/README.md)
 
 
 
