@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hello, I'm Patrick Ivery
+<a href="https://linkedin.com/in/patrick-ivery-b4ab60337"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**PatIvery123/PatIvery123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eager Cybersecurity student with a solid foundation in digital forensics and network security tools. Ability to apply 
+technical knowledge and problem-solving skills in real-world settings. Committed to enhancing cybersecurity 
+measures and protecting digital assets through continuous learning and teamwork. 
+
+## Objective
+
+
+My journey in I.T. has led me to develop a passion for cybersecurity, and I am now eager to further my education outside of school and land a role in the field. 
+
+
+## Projects
+- Python Packet Sniffer
+
+
+
+
+## Education
+
+### Utica College
+**Bachelor of Science in Cybersecurity**  
+Deans list - Cumaltive GPA of 3.8 
+Expected Graduation: 12/25
+
+## Extracurricular Activities
+-Cybersecurity Club Member
+
+-Attendee, 2024 CNY Hackathon
+
+
+
+###  Skills/Certifications
+- Digital Forensics
+- Network Evaluation
+- Cryptography
+- Incident Response
+- Risk Management
+- Python
+
+
+
+## Certifications
+-Studying to complete the **CompTIA Security+** exam
+
+-Range Force Certifications** (20 hours)
+
+
