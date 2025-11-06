@@ -21,33 +21,6 @@ My journey in I.T. has led me to develop a passion for cybersecurity, and I am n
 
 
 
-## Education
 
-### Utica College
-**Bachelor of Science in Cybersecurity**  
-Deans list - Cumaltive GPA of 3.8 
-Expected Graduation: 12/25
-
-## Extracurricular Activities
--Cybersecurity Club Member
-
--Attendee, 2024 CNY Hackathon
-
-
-
-###  Skills/Certifications
-- Digital Forensics
-- Network Evaluation
-- Cryptography
-- Incident Response
-- Risk Management
-- Python
-
-
-
-## Certifications
--Studying to complete the **CompTIA Security+** exam
-
--Range Force Certifications** (20 hours)
 
 
