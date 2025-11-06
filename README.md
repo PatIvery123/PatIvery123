@@ -19,7 +19,7 @@ My journey in I.T. has led me to develop a passion for cybersecurity, and I am n
 [Python Password Checker ](https://github.com/PatIvery123/Python-Password-Checker-/blob/main/README.md)
 
 
-https://github.com/PatIvery123/NMAP-Project.git
+[NMAP Project](https://github.com/PatIvery123/NMAP-Project.git)
 
 
 
