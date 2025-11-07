@@ -3,9 +3,10 @@
 
 
 
-Eager Cybersecurity student with a solid foundation in digital forensics and network security tools. Ability to apply 
-technical knowledge and problem-solving skills in real-world settings. Committed to enhancing cybersecurity 
-measures and protecting digital assets through continuous learning and teamwork. 
+Hardworking and Driven cybersecurity students with hands-on experience in threat detection, incident response, 
+and system hardening across Windows and Linux environments. Skilled in using tools like Wireshark, Splunk, and 
+Nmap to analyze network traffic and identify security gaps. Eager to contribute to a blue team by strengthening 
+defenses, monitoring threats, and improving overall security posture.  
 
 ## Objective
 
