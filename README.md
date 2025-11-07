@@ -24,6 +24,6 @@ My journey in I.T. has led me to develop a passion for cybersecurity, and I am n
 
 [Recovering Deleted and Damaged Files](https://github.com/PatIvery123/Recovering-deleted-and-Damaged-files)
 
-[Basic System Administration & Web Server Configuration Lab](https://github.com/PatIvery123/Basic-System-Administration-Web-Server-Configuration-/tree/main)
+[Basic System Administration & Web Server Configuration ](https://github.com/PatIvery123/Basic-System-Administration-Web-Server-Configuration-/tree/main)
 
 
