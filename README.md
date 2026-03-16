@@ -7,12 +7,6 @@ About
 IT and cybersecurity enthusiast with experience in help desk support and a drive to learn. Known for problem-solving, clear communication, and a strong interest in protecting systems and data in today’s evolving threat landscape.
 
 
-## Objective
-
-
-My journey in I.T. has led me to develop a passion for cybersecurity, and I am now eager to further my education outside of school and land a role in the field. 
-
-
 ## Projects
 [Python Packet Sniffer ](https://github.com/PatIvery123/Python-Packet-Sniffer-/tree/main)
 
